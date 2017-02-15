@@ -24,7 +24,7 @@ class Classroom:
 
 
 
-
+#some comments
 cl1 = Classroom('6', 6, ['dsd','ddd'])
 cl2 = Classroom('8', 4, [6,7])
 print(cl1.__str__())
